@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="385" height="96.1" viewBox="0 0 385 96.1">
+  <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(-58 -102)">
+    <g id="Gruppe_5" data-name="Gruppe 5" transform="translate(34.593 77.461)">
+      <path id="Pfad_13" data-name="Pfad 13" d="M14.608,0,28.587,26.008H.619Z" transform="translate(60.156 76.049)" fill="#2196f3"/>
+      <path id="Pfad_12" data-name="Pfad 12" d="M14.718,0,28.831,18.722H.634Z" transform="translate(89.496 120.639) rotate(180)" fill="#2196f3"/>
+      <g id="Gruppe_3" data-name="Gruppe 3" transform="translate(23.45 24.494)">
+        <path id="Pfad_6" data-name="Pfad 6" d="M0,.674,28.631.736l.351,29.592L16.451,17.374Z" transform="translate(26.684 37.036) rotate(28.999)" fill="#6ec6ff"/>
+        <path id="Pfad_7" data-name="Pfad 7" d="M.122,0,13.647,13.607,29.584,29.462.167,29.785Z" transform="matrix(0.927, 0.375, -0.375, 0.927, 11.037, 0)" fill="#6ec6ff"/>
+        <path id="Pfad_10" data-name="Pfad 10" d="M279.726,67.231l10.1,39.52L252.407,56.675Z" transform="translate(-252.45 -29.034)" fill="#0069c0"/>
+      </g>
+      <g id="Gruppe_4" data-name="Gruppe 4" transform="translate(74.407 24.539)">
+        <path id="Pfad_6-2" data-name="Pfad 6" d="M0,29.655l28.631-.063L29.01.019,16.451,12.955Z" transform="translate(39.726 63.517) rotate(151.001)" fill="#6ec6ff"/>
+        <path id="Pfad_7-2" data-name="Pfad 7" d="M0,29.785,13.525,16.177,29.462.323.045,0Z" transform="matrix(-0.927, 0.375, -0.375, -0.927, 51.714, 27.616)" fill="#6ec6ff"/>
+        <path id="Pfad_10-2" data-name="Pfad 10" d="M262.5,67.231l-10.116,39.416,37.434-49.971Z" transform="translate(-238.072 -29.079)" fill="#0069c0"/>
+      </g>
+    </g>
+    <text id="Versoly" transform="translate(185 174)" fill="#315bf9" font-size="67" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Versoly</tspan></text>
+  </g>
+</svg>
